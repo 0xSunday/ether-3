@@ -2,6 +2,8 @@ import React from "react";
 import { fadeIn, slideIn, staggerContainer } from "../../utils/motion";
 import css from "./Hero.module.scss";
 import { motion } from "framer-motion";
+import { FaDiscord } from "react-icons/fa";
+
 const Hero = () => {
   return (
     <section className={`paddings ${css.wrapper} `}>
@@ -15,19 +17,20 @@ const Hero = () => {
         <div className={css.upperElements}>
           <motion.span
             className="primaryText"
+            // className="text-3xl font-bold underline"
             variants={fadeIn("right", "tween", 0.2, 1)}
           >
-            Hey There,
+            Hey ,
             <br />
-            <span className="text-3xl font-bold underline"> I'm Sunil</span>
+            ETHER
           </motion.span>
           <motion.span
             className="secondaryText"
             variants={fadeIn("left", "tween", 0.4, 1)}
           >
-            I design beautiful simple
+            Keep Fighting Kings,
             <br />
-            things, And I love what i do{" "}
+            We’ve Got Your Back VII & CV
           </motion.span>
         </div>
 
@@ -41,30 +44,38 @@ const Hero = () => {
             alt=""
           />
         </motion.div>
-
+        {/* 
         <a className={css.email} href="mailto:zainkeepscode@gmail.com">
           zainkeepscode@gmail.com
-        </a>
+        </a> */}
 
         <div className={css.lowerElements}>
           <motion.div
             variants={fadeIn("right", "tween", 0.3, 1)}
             className={css.experience}
           >
-            <div className="primaryText">10</div>
-            <div className="secondaryText">
+            <button className="button-30">
+              <a
+                className="button-29"
+                href="https://discord.gg/etherproject"
+              >
+                Join <FaDiscord />
+              </a>
+            </button>
+            {/* <div className="primaryText"></div> */}
+            {/* <div className="secondaryText">
               <div>Years</div>
               <div>Experience</div>
-            </div>
+            </div> */}
           </motion.div>
 
           <motion.div
             variants={fadeIn("left", "tween", 0.5, 1)}
             className={css.certificate}
           >
-            <img src="./certificate.png" alt="" />
-            <span>CERTIFIED PROFATIONAL</span>
-            <span>UI/UX DESIGNER</span>
+            <img src="./certificate.jpg" alt="ether" />
+            <span>CERTIFIED NFT</span>
+            <span>FOUNDER VII</span>
           </motion.div>
         </div>
       </motion.div>

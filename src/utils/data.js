@@ -1,119 +1,114 @@
 import { HiOutlineDesktopComputer } from "react-icons/hi";
 import { CiMobile1 } from "react-icons/ci";
-import { MdWorkspacesOutline } from "react-icons/md";
+import { AiOutlineTwitter } from "react-icons/ai";
 export const projectExperience = [
   {
-    name: "Website Design",
-    projects: 76,
-    icon: HiOutlineDesktopComputer,
-    bg: "#286F6C",
+    name: "ETHER",
+    projects: "nft",
+    icon: AiOutlineTwitter,
+    bg: "#1DA1F2",
+    link: "https://twitter.com/ether",
   },
   {
-    name: "Mobile App Design",
-    projects: 63,
-    icon: CiMobile1,  
-    bg: "#EEC048",
+    name: "VII",
+    projects: "Founder  (@visionofviii)",
+    icon: AiOutlineTwitter,
+    bg: "#1DA1F2",
+    link: "https://twitter.com/visionofviii",
   },
   {
-    name: "Brand Identity",
-    projects: 47,
-    icon: MdWorkspacesOutline,
-    bg: "#F26440",
+    name: "CV ",
+    projects: "Co-Founder (@CValley_)",
+    icon: AiOutlineTwitter,
+    bg: "#1DA1F2",
+    link: "https://twitter.com/CValley_",
   },
 ];
 
 export const WhatDoIHelp = [
-  "I will help you with finging a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
-  "We use process design to create digital products. Besides that also help their business",
+  "The world of art is vast and diverse, with countless individuals working to create and share their unique visions with the world. ",
+  "One such person is @visionofviii ,through his own hard work and dedication, he has managed to create beautiful and meaningful pieces @ether",
 ];
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "Mint Details",
+    role: "Supply and Price",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Total supply will be 10000, 1750 will be whitelisted, 250 for the treasury and 8000 for public",
+    detial2:
+      "Mint Prince for public will be 1ETH and whitelist mint price 0.5ETH ",
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
+    place: "Collection",
+    role: "Percentage of types",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Total 5000 Male and 5000 Female .Out of Total supply 50% will be Humans 30% will be Mecha 19% will be IMP/Vampire 0.95% will be Currupt 0.05 will be 1 OF 1 (1 of 1 is special)",
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
+    place: "How To Get WL",
+    role: "Origial Content",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Show support with your unique Strength Avenues to Explore include (but are not limited to) that is Coldplay, Memes, Lore, Graphics, Videos, Music, Fan Arts, Clothings No Grinding",
   },
 ];
 
 export const comments = [
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "bogdan0v_Y 🍄💎",
+    post: " @bogdan0v_Y",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "looks like there was a fight🐉🔮 My #E10k art is ready and in my opinion it turned out great 🐉🤍 Process below ",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Heyvê🦋Ether🌹",
+    post: "@HDshoq",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Hello 🦋🍀I try to present something different every time for this great project.. This time I used pixel art. It took me a lot of time to make it but I made it with love. I hope you like it my ether family🙊🤍",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: " hirosh1🔞",
+    post: "@Im_hirosh1",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "'no matter where you hide, she's going to hunt you down!' with this fierce gun maiden, your body and soul is pretty much an easy target.",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "⛽ MILK 🔴 💧 🐉",
+    post: "@Milk_6815",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Still can't believe I'm just Manifesting this earlier and now i received it🤍😭 thank you so much for the trust and I'll keep supporting  @ether  until the end🤍 it's a dream come true for me to receive a personal message from  @visionofviii @CValley_ and  @SpiritEther TYSM🤍🐉#ETHER",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "EIGHT.eth",
+    post: "@EIGHT_eth888",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Hi fam🖤 This is my graffiti for @ether That's what Ether is capable of inspiring. It was very cold but we did it.I am glad that I can create for a project of such a high level❤️‍🔥👀",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Kento3yyy.eth(💙,🧡)",
+    post: "@Dufresne__eth",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Finding a valentine.lets hope he finds a nice waifu . @visionofviii @CValley_ @ether @SpiritEther #ether btw there is another one coming tomorrow.spoiler - nvm have some patience",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "PANOROM © 🟢",
+    post: "@moromalos",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "I am so impressed how  @visionofviii gives a Meaning and uniqueness to colors through his art !!!  Happy valentines with the color of passion to all  @ether lovers  #ether #togETHER",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Daniel Verse 🟢",
+    post: "@doshgood",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "I’m ready to show you my passion for the last few days! It’s pretty hard to do such thing during the working week, but here it is! Hope you’ll like this one👀 @ether @visionofviii @CValley_ @Sneakynftseth @nandoeth @lulhanson#ether ",
     img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
   },
 ];
 

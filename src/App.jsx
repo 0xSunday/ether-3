@@ -17,7 +17,7 @@ const App = () => {
       <Work/>
       <Portfolio/>
       <People/>
-      <Footer/>
+     
     </div>
   )
 }
